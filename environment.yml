@@ -1,0 +1,13 @@
+name: digit_force_calibration
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.10 # Tested with 3.10.12 but other versions should work
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - pyserial
