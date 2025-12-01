@@ -1,6 +1,8 @@
 # Digit-Force-Calibration
 **Digit-Force-Calibration** is a collection of utilities and data for calibrating an FSR force sensor (attached to the rear of a DIGIT sensor) using a Raspberry Pi Pico.
 
+![DIGIT and FSR](images/digit-fsr-1.jpg)
+
 ## Contents
 
 This repo contains:
